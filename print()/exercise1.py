@@ -1,0 +1,6 @@
+print("hello world......")
+print('kailash badu')
+print("print('my name is kailash badu')")
+print('print("hi my name is kailash badu")')
+# print("print("my name is kailash badu")")
+# print('print('heyyyyyy')')
